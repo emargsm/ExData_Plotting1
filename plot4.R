@@ -1,4 +1,4 @@
-## Exploratory Data Analysis, August 2015
+## Exploratory Data Analysis, October 2015
 ## Project 1, Graph 4
 ##
 ## Common info:
@@ -50,6 +50,8 @@
 ## X range: Thu, Fri, Sat
 ## Y-axis label: Global_reactive_power
 ## Y range: 0.0 to 0.5
+##
+## All plot details confirmed for October's course.
 ##
 ## Read in the data. Assume that the data file is in the current working directory.
 ## The file is semicolon-delimited, and the first column is the date in dd/mm/yyyy format.
