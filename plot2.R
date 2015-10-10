@@ -1,4 +1,4 @@
-## Exploratory Data Analysis, August 2015
+## Exploratory Data Analysis, October 2015
 ## Project 1, Graph 2
 ##
 ## Common info:
@@ -17,7 +17,8 @@
 ## X-axis label: <none>
 ## X range: Thu, Fri, Sat
 ## Y-axis label: Global active power (kilowatts)
-## Y range: 0-6 (really 0-8)
+## Y range: 0-6 (8 is implicit top)
+## Values re-checked when submitting in October 2015.
 
 ## Read in the data. Assume that the data file is in the current working directory.
 ## The file is semicolon-delimited, and the first column is the date in dd/mm/yyyy format.
