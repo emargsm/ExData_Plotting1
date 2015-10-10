@@ -1,4 +1,4 @@
-## Exploratory Data Analysis, August 2015
+## Exploratory Data Analysis, October 2015
 ## Project 1, Graph 3
 ##
 ## Common info:
@@ -19,6 +19,7 @@
 ## Y-axis label: Energy sub metering
 ## Y range: 0-30
 ## Legend: Yes, upper right corner
+## Confirmed for October course
 
 ## Read in the data. Assume that the data file is in the current working directory.
 ## The file is semicolon-delimited, and the first column is the date in dd/mm/yyyy format.
